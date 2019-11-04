@@ -1,0 +1,11 @@
+/Users/aliakseihudyma/RiderProjects/NewYearGift/NewYearGift/bin/Debug/netcoreapp3.0/NewYearGift
+/Users/aliakseihudyma/RiderProjects/NewYearGift/NewYearGift/bin/Debug/netcoreapp3.0/NewYearGift.deps.json
+/Users/aliakseihudyma/RiderProjects/NewYearGift/NewYearGift/bin/Debug/netcoreapp3.0/NewYearGift.runtimeconfig.json
+/Users/aliakseihudyma/RiderProjects/NewYearGift/NewYearGift/bin/Debug/netcoreapp3.0/NewYearGift.runtimeconfig.dev.json
+/Users/aliakseihudyma/RiderProjects/NewYearGift/NewYearGift/bin/Debug/netcoreapp3.0/NewYearGift.dll
+/Users/aliakseihudyma/RiderProjects/NewYearGift/NewYearGift/bin/Debug/netcoreapp3.0/NewYearGift.pdb
+/Users/aliakseihudyma/RiderProjects/NewYearGift/NewYearGift/obj/Debug/netcoreapp3.0/NewYearGift.csprojAssemblyReference.cache
+/Users/aliakseihudyma/RiderProjects/NewYearGift/NewYearGift/obj/Debug/netcoreapp3.0/NewYearGift.AssemblyInfoInputs.cache
+/Users/aliakseihudyma/RiderProjects/NewYearGift/NewYearGift/obj/Debug/netcoreapp3.0/NewYearGift.AssemblyInfo.cs
+/Users/aliakseihudyma/RiderProjects/NewYearGift/NewYearGift/obj/Debug/netcoreapp3.0/NewYearGift.dll
+/Users/aliakseihudyma/RiderProjects/NewYearGift/NewYearGift/obj/Debug/netcoreapp3.0/NewYearGift.pdb

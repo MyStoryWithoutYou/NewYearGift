@@ -1,0 +1,5 @@
+Candy, weight: 500, caloric value: 370, price: 20, percentage of cocoa: 46, filling:  marmalade
+Waffle, weight: 250, caloric value: 250, price: 16, taste:  vanilla, is glaze used: True
+Fruit, weight: 250, caloric value: 450, price: 9, percentage of vitamin C: 27, percentage of vitamin A: 16
+Total weight of the gift is 1000
+Total price of the gift is 16
